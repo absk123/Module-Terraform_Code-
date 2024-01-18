@@ -109,10 +109,4 @@ assign = {
 }
 # =========================
 # Key Vault Line (113-117)
-kv = {
-  KV1 = {
-    name = "azureekeyyvaultt"
-    pwd = "password"
-    password = "CENAne$&yW4m3x"
-  }
-}
+kv = "AbhiisekKeyVault"
